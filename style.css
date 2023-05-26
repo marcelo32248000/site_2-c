@@ -4,7 +4,7 @@
 }
 
 .cabeçalho{
-    background-color: lemonchiffon;
+    background-color: rgb(255, 119, 0);
     color: black;
     display: flex;
     justify-content: space-around;
