@@ -28,17 +28,16 @@
 .apresentaçao_trabalho{
     background-image: linear-gradient(lemonchiffon, #dd371a);
     display: flex;
+
     justify-content: space-around;
     align-items: center;
+    padding: 24px 0;
+}
 
-    padding: 24px 0;    }
-    
+.titulo_apresentaçao_trabalho{
+    font-size: 30px;
+}
 
-    .titulo_apresentaçao_trabalho{
-        font-size: 30px;
-    }
-
-
-    .imagem_arvore{
-        width: 15%;
-    }
+.imagem_arvore{
+    width: 15%;
+}
