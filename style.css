@@ -4,7 +4,7 @@
 }
 
 .cabeçalho{
-    background-color: rgb(255, 119, 0);
+    background-color: rgba(255, 119, 0, 0.527);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -26,7 +26,7 @@
 }
 
 .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(255, 115, 0), #ff2600);
+    background-image: linear-gradient(rgba(255, 115, 0, 0.712), #ff2600a4);
     display: flex;
 
     justify-content: space-around;
