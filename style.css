@@ -1,43 +1,150 @@
 * {
     margin: 0%;
     padding: 0%;
+    color: rgb(255, 255, 255);
 }
 
-.cabeçalho{
-    background-color: rgba(255, 119, 0, 0.527);
-    color: black;
+.corpo{
+    font-family: 'Playfair', serif;
+}
+
+.pimentas-jogadas{
+    width: 13%;
+    padding: 0 0 0 50px;
+}
+
+.cabecalho{
     display: flex;
-    justify-content: space-around;
+    background-image: linear-gradient(#244d29, #244d29);
+    padding: 25px 50px;
     align-items: center;
-    padding: 24px 0;
 }
 
-.cabeçalho_imagem{
-    width: 12%;
-}
-
-.cabeçalho_titulo{
+.segundo-c{
     font-size: 50px;
 }
 
-.cabeçalho_lista_item{
-    margin: 25px 0px 25px 0px;
-    font-size: 16px;
-}
-
-.apresentaçao_trabalho{
-    background-image: linear-gradient(rgba(255, 115, 0, 0.712), #ff2600a4);
-    display: flex;
-
-    justify-content: space-around;
+.cabecalho-titulo{
     align-items: center;
-    padding: 24px 0;
+    padding: 0 0 0 150px;
+    font-size: 45px;
 }
 
-.titulo_apresentaçao_trabalho{
-    font-size: 30px;
+
+
+
+.cabecalho2{
+    padding: 100px 0;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(#244d29, #1cd334);
+    display: flex;
+    justify-content: center;
 }
 
-.imagem_arvore{
+.cabecalho2-div{
+    width: 35%;
+    padding-left: 200px;
+}
+
+.pimente-p{
+    padding: 15px 0 25px 0;
+}
+
+.pimente-pi{
+    padding: 25px 0;
+}
+
+.ano-letivo{
+    padding: 30px 0 0 0;
+}
+
+.pimenta-exemplo{
+    width: 27.5%;
+    padding-left: 340px;
+    padding-top: 50px;
+}
+
+.grupo-3{
+    font-size: 13px;
+    padding-left: 300px;
+}
+
+.adulta.div{ 
+    justify-content: center;
+}
+
+
+
+
+.semana-1{
+    padding: 75px 0 0 75px;
+    background-image: linear-gradient(#1cd334, #5fc656);
+}
+
+.titulos-semana-1{
+    display: flex;
+}
+
+.semana-1-titulo{
+    font-size: 45px;
+    padding: 0 0 0 200px;
+}
+
+.plantar-titulo{
+    font-size: 45px;
+    padding: 0 0 0 200px;
+}
+
+.copos{
+    display: flex;
+}
+
+.copo-1{
     width: 15%;
+    padding: 100px 0 0 0;
+}
+
+.copo-1-texto{
+    width: 50%;
+    padding: 100px 0 0 50px;
+}
+
+.copo-1-texto-2{
+    width: 50%;
+    padding: 150px 0 0 50px;
+}
+
+.copos-2{
+    display: flex;
+}
+
+.copo-3{
+    width: 15%;
+    padding: 40px 0 60px 0;
+}
+
+.texto-copo-3{
+   width: 35%;
+   padding: 290px 0 0 50px;
+}
+
+
+
+.semana-2{
+    padding: 75px 0 0 75px;
+    background-image: linear-gradient(#5fc656, #1cd334);
+}
+
+.titulos-semana-2{
+    display: flex;
+}
+
+.semana-2-titulo{
+    font-size: 45px;
+    padding: 0 0 0 200px;
+}
+
+.titulo-vaso{
+    font-size: 45px;
+    padding: 0 0 0 200px;
 }
