@@ -36,7 +36,7 @@
 .cabecalho2{
     padding: 100px 0;
     color: rgb(255, 255, 255);
-    background-image: linear-gradient(#244d29, #1cd334);
+    background-image: linear-gradient(#43c4eb, #4c7fdd);
     display: flex;
     justify-content: center;
 }
